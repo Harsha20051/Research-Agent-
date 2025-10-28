@@ -2,7 +2,7 @@
 
 👨‍💻 Developed by: Harshal Sonawane
 
-🎓 B.Tech (AIML) | Director – STEM Sage Techword LLP | AI & IoT Innovator
+🎓 B.Tech (AIml)
 
 📘 Project Overview
 
