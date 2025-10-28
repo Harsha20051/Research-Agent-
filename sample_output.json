@@ -1,0 +1,44 @@
+[
+  {
+    "company": "TCS",
+    "role": "Data Analyst Intern",
+    "rounds": [
+      "Aptitude",
+      "Technical",
+      "HR"
+    ],
+    "topics": [
+      "Python",
+      "SQL",
+      "Data Analysis"
+    ],
+    "difficulty": "Easy",
+    "recommended_order": [
+      "Aptitude",
+      "Technical",
+      "HR"
+    ]
+  },
+  {
+    "company": "Google",
+    "role": "SDE Intern",
+    "rounds": [
+      "MCQ",
+      "Coding",
+      "System Design",
+      "HR"
+    ],
+    "topics": [
+      "Machine Learning",
+      "APIs",
+      "Deep Learning"
+    ],
+    "difficulty": "Hard",
+    "recommended_order": [
+      "MCQ",
+      "Coding",
+      "System Design",
+      "HR"
+    ]
+  }
+]

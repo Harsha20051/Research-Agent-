@@ -1,0 +1,33 @@
+{
+  "company": "TCS",
+  "role": "Data Analyst Intern",
+  "generated_at": "2025-10-28T04:47:57.689169Z",
+  "rounds": [
+    "Aptitude",
+    "Technical",
+    "HR"
+  ],
+  "difficulty": "Easy",
+  "topics": [
+    "Data Analysis",
+    "Python",
+    "SQL",
+    "data visualization",
+    "data analysis"
+  ],
+  "tools": [],
+  "responsibilities": [
+    "perform data analysis",
+    "build reports"
+  ],
+  "recommended_order": [
+    "Aptitude",
+    "Technical",
+    "HR",
+    "Data Analysis",
+    "Python",
+    "SQL",
+    "data visualization",
+    "data analysis"
+  ]
+}
